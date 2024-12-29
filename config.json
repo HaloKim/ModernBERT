@@ -1,0 +1,5 @@
+license: mit
+dataset_info:
+  features:
+    text:
+      dtype: string
